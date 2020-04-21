@@ -9,7 +9,6 @@ dependencies:
   - pip
   - pip:
     - IPython
-    - urllib
     - pandas
     - json2html
     - random
