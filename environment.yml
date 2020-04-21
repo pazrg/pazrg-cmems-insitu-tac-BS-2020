@@ -11,7 +11,6 @@ dependencies:
     - IPython
     - pandas
     - json2html
-    - collections
     - ftputil
     - matplotlib
     - xarray
