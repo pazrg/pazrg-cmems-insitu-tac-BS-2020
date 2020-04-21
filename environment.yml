@@ -13,5 +13,6 @@ dependencies:
     - json2html
     - ftputil
     - matplotlib
+    - netCDF4
     - xarray
     - branca
