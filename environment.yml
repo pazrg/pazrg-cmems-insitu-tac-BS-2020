@@ -8,7 +8,6 @@ dependencies:
   - folium
   - pip
   - pip:
-    - warnings
     - IPython
     - urllib
     - pandas
