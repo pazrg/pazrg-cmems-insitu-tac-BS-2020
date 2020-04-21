@@ -1,0 +1,21 @@
+name: insitu-BS-2020-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - shapely
+  - folium
+  - pip
+  - pip:
+    - warnings
+    - IPython
+    - urllib
+    - pandas
+    - json2html
+    - random
+    - collections
+    - ftputil
+    - matplotlib
+    - xarray
+    - branca
